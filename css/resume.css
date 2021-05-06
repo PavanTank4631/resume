@@ -49,6 +49,10 @@ h2 {
   .list-icons .list-inline-item i:hover {
     color: #BD5D38; }
 
+    .list-inline-item h5{
+      color: red !important;
+    }
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase; }
